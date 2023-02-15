@@ -226,7 +226,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/Images/Me.png");
+  background: url("../img/Images/AaronOllier.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -280,8 +280,8 @@ h6 {
   #hero  {
     font-size: 28px;
     line-height: 36px;
-    background-position: left;
-    background: url("../img/Images/Me.jpg");
+    background-position: right;
+    background: url("../img/Images/AaronOllier.jpg");
   }
 
   #hero h2 {
